@@ -6,7 +6,7 @@
         placeholder="Add to-do here..."
         v-model="enteredValue"
       />
-      <base-button>Add To-do</base-button>
+      <base-button>Add To-do List</base-button>
     </form>
   </div>
 </template>
